@@ -9,6 +9,7 @@
   },
   "devDependencies": {
     "prettier": "^3.2.5",
+    "prisma": "^5.17.0",
     "turbo": "^2.0.9",
     "typescript": "^5.4.5"
   },
